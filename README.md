@@ -16,10 +16,10 @@ A shop in India is providing computer/laptop repair services. The types of servi
 |  8 |         Internet connectivity Issues        |      1      |    50 RM    |    75 RM    |
 
 You are required to write a program for managing the services needed in each visit. Following are the features that the program should have:
-•	Display the services provided by the shop with other details as shown in the above table.
-•	Record visit details of a customer like visit ID, customers name, visit date, service needed, service fee, and payment made. (store in text file)
-•	Allow changing the needed service for an existing visit.
-•	Allow changing the payment made once the needed service finished.
-•	Allow searching for visit details based on customer’s name.
-•	Print payment made and unpaid balance for any visit.
-•	Print total payment made and total unpaid balance for all visits.
+-	Display the services provided by the shop with other details as shown in the above table.
+-	Record visit details of a customer like visit ID, customers name, visit date, service needed, service fee, and payment made. (store in text file)
+-	Allow changing the needed service for an existing visit.
+-	Allow changing the payment made once the needed service finished.
+-	Allow searching for visit details based on customer’s name.
+-	Print payment made and unpaid balance for any visit.
+-	Print total payment made and total unpaid balance for all visits.
